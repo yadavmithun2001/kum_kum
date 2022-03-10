@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="mail" transform="translate(-556 -252)">
+    <g id="sms">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(556 252)" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M15,0H5C2,0,0,1.5,0,5v7c0,3.5,2,5,5,5H15c3,0,5-1.5,5-5V5C20,1.5,18,0,15,0Zm.47,6.09-3.13,2.5a3.861,3.861,0,0,1-4.68,0L4.53,6.09a.769.769,0,0,1-.12-1.06.748.748,0,0,1,1.05-.12l3.13,2.5a2.386,2.386,0,0,0,2.81,0l3.13-2.5a.738.738,0,0,1,1.05.12A.759.759,0,0,1,15.47,6.09Z" transform="translate(558 255.5)" fill="#e32055"/>
+    </g>
+  </g>
+</svg>

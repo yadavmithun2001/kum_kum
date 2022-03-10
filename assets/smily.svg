@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="smily" transform="translate(2780 430)">
+    <g id="vuesax_linear_grammerly" data-name="vuesax/linear/grammerly" transform="translate(-3528 -746)">
+      <g id="grammerly">
+        <g id="Group">
+          <path id="Vector" d="M17.075,2.933a10.008,10.008,0,0,1-.2,14.34,10.111,10.111,0,0,1-13.74,0,10,10,0,1,1,13.94-14.34Z" transform="translate(749.995 318.018)" fill="none" stroke="#999898" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-2" data-name="Vector" d="M7.67,0A5.652,5.652,0,0,1,0,0" transform="translate(756.17 332.07)" fill="none" stroke="#999898" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(772 340) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+    <circle id="Ellipse_573" data-name="Ellipse 573" cx="1.5" cy="1.5" r="1.5" transform="translate(-2773 -421)" fill="#999898"/>
+    <circle id="Ellipse_574" data-name="Ellipse 574" cx="1.5" cy="1.5" r="1.5" transform="translate(-2766 -421)" fill="#999898"/>
+  </g>
+</svg>
